@@ -23,4 +23,4 @@ To complete this project, your team should:
 
 **Write a notebook that runs preprocessing and trains one or more deep learning models in order to predict the spam or ham nature of the sms
 State the achieved performance clearly**
-video : https://share.vidyard.com/watch/eM9PbfCbAMM8846t6pcpsf?
+video : https://share.vidyard.com/watch/Z5M5Ro17FxQTTUqizcNfVj?
